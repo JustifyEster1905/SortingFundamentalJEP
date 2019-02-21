@@ -1,0 +1,7 @@
+{
+  "framework": "justifyester",
+  "src_files": [
+    "bubblesort/*.js",
+    "mergesort/*.js"
+  ]
+}
